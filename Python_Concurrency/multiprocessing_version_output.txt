@@ -1,0 +1,9 @@
+Downloaded 60 in 3.0219922065734863 seconds
+.jython.org
+SpawnPoolWorker-8:Read 277 from http://olympus.realpython.org/dice
+SpawnPoolWorker-8:Read 10782 from https://www.jython.org
+SpawnPoolWorker-8:Read 277 from http://olympus.realpython.org/dice
+SpawnPoolWorker-8:Read 10782 from https://www.jython.org
+SpawnPoolWorker-8:Read 277 from http://olympus.realpython.org/dice
+SpawnPoolWorker-8:Read 10782 from https://www.jython.org
+SpawnPoolWorker-8:Read 277 from http://olympus.realpython.org/dice
